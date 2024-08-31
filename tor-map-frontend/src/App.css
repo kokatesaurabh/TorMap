@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+  height: 100vh;
+  background-color: #2e3b4e; /* Dark background */
+}
+
+.main-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-area {
+  padding: none;
+  background-color: #ffffff;
+  flex-grow: 1;
+  overflow-y: auto;
+}

@@ -1,0 +1,19 @@
+.sidebar {
+  width: 250px;
+  background-color: #1a2338; /* Dark navy blue */
+  color: white;
+  height: 100vh;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-bottom: 20px;
+}
+
+.sidebar .MuiListItem-root {
+  padding: 10px 20px;
+}
+
+.sidebar .MuiListItemIcon-root {
+  color: white;
+}
